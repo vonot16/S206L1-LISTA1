@@ -1,0 +1,25 @@
+{
+  "name": "s206l1-lista1",
+  "version": "1.0.0",
+  "description": "Primeira Lista de Exercicio da Disciplina S206",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vonot16/S206L1-LISTA1.git"
+  },
+  "author": "Rafael Felipe R Moreira - GES81",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vonot16/S206L1-LISTA1/issues"
+  },
+  "homepage": "https://github.com/vonot16/S206L1-LISTA1#readme",
+  "dependencies": {
+    "cypress": "^11.0.0"
+  },
+  "devDependencies": {
+    "cypress-mochawesome-reporter": "^3.2.3"
+  }
+}
